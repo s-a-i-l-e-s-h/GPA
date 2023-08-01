@@ -1,0 +1,15 @@
+From Team Access Denied.
+
+ALERT : PLEASE DON'T CHANGE THE FOLDER FORMAT.
+
+Click on Themes folder to view our various themes.
+
+Click on About.html page to view our about us page model.
+
+Click on c2.html to view our prototype.
+
+Click on sg.html to view our sign up successfull page.
+
+
+Run the connector code in Python Tools to store details in database(MySql).
+
